@@ -1,0 +1,6 @@
+stage,highRisk,mediumRisk,lowRisk
+accepted,0,0,0
+qualified,2,0,1
+consensus,1,2,5
+validation,1,7,12
+closure,0,3,11
